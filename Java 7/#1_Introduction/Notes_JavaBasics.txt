@@ -1,0 +1,95 @@
+Java Technology
+--------------------
+
+	GPL - Global Public Licence
+
+
+	1. What is OOP?
+		Variables?, Datatypes?, Control Statements, Looping, String
+		 	+
+		Class Objects + Extend + Overriding + Error Handling
+		
+		
+		Languages who support OOP -> C++  (1979), Python (1993), Java (1991), C#(2000), TypeScript (2007)
+		
+
+		Features
+		----------
+		1. Class & Object
+			"class" is a keyword used to create collection of declarations like variables declarations,
+			functions, constants and further classes
+
+			Access Modifiers
+			=================
+			1. public 		: give access anywhere
+			2. private		: give access only inside class
+			3. protected		: give access only inside class and to specific other classes
+
+			class ClassName
+			{
+				<AccessModifier> variable;
+				<AccessModifier> variable;
+
+				<AccessModifier> Function(){}
+				<AccessModifier> Function(){}
+			}
+
+			Note: In Class Default Access Modifier is "public" if user not specify
+			
+
+
+			"Object" means reference also called as Instance of Class or Entity of a class
+
+			Note: For a class, You can create any number of Objects
+
+
+		2. Encapsulation
+		3. Inheritance
+		4. Polymorphsim & Abstraction
+
+
+	2. How to download and install Java?
+
+		JDK - Java Development Kit 14 
+		Version : 1993 - 2020		
+		================================
+		c:/program files/java/jdk/bin/
+
+		java.exe		- interpreter
+		javac.exe		- compilor
+
+	3. Syntax of Java Code?
+
+		class ProgramTest
+		{
+			public static void main(String []args)
+			{
+				
+			}
+		}
+
+
+		(price, qty, descr, barcode, tax)
+		class Product {}
+
+		Product p1; // Mouse		(price, qty, descr, barcode, tax)
+		Product p2; // Keyboard		(price, qty, descr, barcode, tax)
+		Project p3; // Speaker		(price, qty, descr, barcode, tax)
+
+		Project p50; // 		52*50
+
+
+	4. How Works?
+		
+		30 Days : 
+
+			step1: Foundation Coding
+			step2: Logical & Complex
+			step3: Actual Project with Database handling
+	
+
+		
+		
+
+		
+
