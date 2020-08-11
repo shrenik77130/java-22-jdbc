@@ -1,0 +1,107 @@
+How to Run Java Program?
+
+	Step1: Create class and Define main() method
+	----------------------------------------------
+
+	class JavaProgram1
+	{
+		public static void main(String []args)
+		{
+			System.out.print("\n Hello World");
+		}
+	}
+
+	Step2: Save file exactly same as class name in your workspace
+	-------------------------------------------------------------
+	
+	e.g. D:/javafullstack/batch22/...
+
+
+	Step3: Open Command Prompt
+	-----------------------------
+	Open Your workspace -> In Address Bar type "cmd" -> Enter
+
+
+	Step4: Compile Java Code
+	----------------------------
+	javac JavaProgram1.java
+
+	note: cross check .class file created or not
+
+	Step5: Run Java Program
+	--------------------------
+	java JavaProgram1
+
+
+print() function in Java
+-----------------------------------------
+
+	-> print() function is in PrintWriter class
+	-> System class declared static object of PrintWriter class
+	-> With the help of System you can call print() function without object of any class
+	
+	class System
+	{
+		public static PrintWriter out;
+	}
+
+	class PrintWriter
+	{
+		public void print(){}
+	}
+
+	-> "System" class is from "java.lang" package
+	-> "PrintWriter" class is from "java.io" package
+
+	
+
+	java/.....
+
+		lang/.....
+			System.java
+			Object.java
+			Integer.java
+			Float.java
+
+		util/...
+			Scanner.java
+			Arrays.java
+			Collection.java
+
+		io/...
+			PrintWriter.java
+			InputStream.java
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
