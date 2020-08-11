@@ -1,0 +1,52 @@
+Programming?
+
+    Programming is to instruct system to perform task
+
+    A. System Programming
+        Programming which help to communicate hardware called as "System Programming"
+
+        e.g.  Assembly Programming, Electronics
+
+    B. Application Programming
+
+        1. Desktop Applications
+                -> offline, Standalone Applications
+                -> C Language, C++, Java, C#.Net
+
+        2. Web Applications
+                -> Internet + Browser
+                -> HTML, CSS, BootStrap, JavaScript
+
+                Admin Website       : ASP, JSP, PHP
+                Client Website      : Angular, React JS
+
+        3. Database Applications
+                -> Information Storage, SQL (Structured Query Langauge)
+                -> Server : Oracle, MySQL, Mongo DB, SQL Server
+
+        4. Mobile Applications
+                -> Android/IOS
+                -> Java, Swift, Kotlin, Cordova, Flutter, React Native etc.
+
+
+        Other: Python, Shell Script, Ruby, R Programming etc     128+ Programming Langauge
+
+
+        Logic Improvement
+        ------------------
+        Data Structures -> List, Stack, Queue, Tree, Sorting, Searching, Hashing
+
+
+            -> Data Analysis
+            -> Machine Learning
+            -> Artificial Intelligence
+
+How to Install Visual Studio Code?
+==================================
+Download Link : https://code.visualstudio.com/
+
+Step1: Open Visual Studio Code
+Step2: Open your workspace 
+        File Menu -> Open Folder -> Select workspace
+Step3: Create .html File
+
