@@ -1,0 +1,30 @@
+"Scanner" class
+-----------------
+
+	-> it is inside "util" package
+	-> used to take input from user
+	-> Methods
+	   -----------
+	   a. next()			: read String value
+	   b. nextInt()			: read integer value
+	   c. nextFloat()		: read float value
+	   d. nextDouble()		: read double value
+	   e. nextBoolean()		: read boolean value
+	   
+	   
+	Syntax:
+	Scanner s1 = new Scanner(System.in);
+	
+	
+	-> System is from "lang" package
+	-> "in" is object of InputStream class
+	
+	e.g.
+	int no;
+	
+	no  = s1.nextInt();
+	
+	
+	
+	
+	

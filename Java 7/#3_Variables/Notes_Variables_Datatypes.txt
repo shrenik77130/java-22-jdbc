@@ -1,0 +1,99 @@
+Keywords
+-------------
+
+	-> Keywords are the reserved words	
+	-> 65 words are keywords
+
+	e.g
+	this		while		for	continue	break
+	instanceof	interface	class	abstract
+
+	-> Some keywords used to define the type of variable, some keywords used to create class, some used to 
+	   check conditions and some used to repeat block of code
+	
+
+
+
+Variables in Java
+-------------------
+
+	Syntax:
+	<Datatype> <VarName>;
+
+
+	Rules,
+	1. Variable name should begin with any alphabate 
+	2. Variable name should not contain any white space or symbol except undescore and doller
+	3. Variable name should be unique
+	4. Variable name should not be same as keywords
+
+	Note:	
+	1. In Java if you concat String object with any type of varible then java create new String object
+		e.g. 
+
+		int no=92;
+		String test="pune city";
+
+		System.out.print(test + no);  // "pune city92"
+
+Datatypes in Java
+----------------------
+	"Datatype" means keywords which used to define the type of variable
+
+
+	Integers
+	--------
+	byte		-128 to +127			1 byte
+	short		-32768 to +32767		2 byte
+	int		-2147483648 to +2147483647	4 byte
+	long		19 digit number			8 byte
+
+
+	Decimal
+	--------
+	float		[7.6]				4 byte
+	double		[15.19]				16 byte
+
+
+
+	Characters
+	----------
+	char		-128 to 127			1 byte
+	String		null				1 byte
+
+	Boolean
+	---------
+	boolean		false				1 byte
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
