@@ -17,7 +17,6 @@ class JavaProgram13
 		no = (no/10)*100  +  (no/10000)*(no%10);
 
 		System.out.println("After replace last digit = " + no);
-
 	}
 }
 
