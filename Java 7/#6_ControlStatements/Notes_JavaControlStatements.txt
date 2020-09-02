@@ -1,0 +1,74 @@
+Control Statements 
+------------------------
+
+	1. Decision Making
+	-----------------------------------------------------------------
+	
+	if(condition-1)
+	{
+		statement(s);
+	}
+	else if(condition-2)
+	{
+		statement(s);
+	}
+	else
+	{
+		statement(s);
+	}
+
+
+	2. Looping
+	------------------------------------------------------------------
+		
+	while loop
+
+		<initialization>
+		while(condition)
+		{
+			statement(s);
+			[++/--];
+		}
+
+	for loop
+			
+		for(initialization;condition;++/--)
+		{
+			
+		}
+
+	enhanced for loop
+
+		for(Type Var/ObjName : array/collection)
+		{
+			statement(s);
+		}
+
+
+	3. Control keywords
+	------------------------------------------------------------------------
+
+	1. break
+		
+	2. continue
+
+	3. return
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
